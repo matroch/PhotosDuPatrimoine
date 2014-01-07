@@ -1,25 +1,25 @@
-# Projet d'agrégation de photographies publiques du patrimoine immobilier protégé du Québec.
+# Projet d'agrÃ©gation de photographies publiques du patrimoine immobilier protÃ©gÃ© du QuÃ©bec.
 
 ### Description
 
-Créer un mashup avec les services Web (API) de Foursquare, Wikimédia, Flickr et Panoramio pour récupérer et afficher sur une carte simple les photos concernant le patrimoine immobilier du Québec. Il est nécessaire dans cette interface de pouvoir connaître le titre, l’auteur, la date de prise de vue et la licence de réutilisation associée à chacune des photos. Il pourrait aussi être possible de retirer de la carte une photo qui ne correspond pas à un bien immobilier protégé.
+CrÃ©er un mashup avec les services Web (API) de Foursquare, WikimÃ©dia, Flickr et Panoramio pour rÃ©cupÃ©rer et afficher sur une carte simple les photos concernant le patrimoine immobilier du QuÃ©bec. Il est nÃ©cessaire dans cette interface de pouvoir connaÃ®tre le titre, l'auteur, la date de prise de vue et la licence de rÃ©utilisation associÃ©e Ã  chacune des photos. Il pourrait aussi Ãªtre possible de retirer de la carte une photo qui ne correspond pas Ã  un bien immobilier protÃ©gÃ©.
 
-La concordance pourra se faire avec les coordonnées géographiques, le nom du bien ou des mots-clés utilisés par les utilisateurs
+La concordance pourra se faire avec les coordonnÃ©es gÃ©ographiques, le nom du bien ou des mots-clÃ©s utilisÃ©s par les utilisateurs
 
 
 
 ### Contexte
 
-Ce projet a été inité à l'occasion du Défi GéoHack MTL (http://defigeohackmtl.org/)
-Des fichiers GeoJSON ont été produits à partir de jeux de données ouvertes du Ministère de la Culture et des communications du Québec disponibles à cette adresse : http://www.donnees.gouv.qc.ca
+Ce projet a Ã©tÃ© initiÃ© Ã  l'occasion du DÃ©fi GÃ©oHack MTL (http://defigeohackmtl.org/)
+Des fichiers GeoJSON ont Ã©tÃ© produits Ã  partir de jeux de donnÃ©es ouvertes du MinistÃ¨re de la Culture et des communications du QuÃ©bec disponibles Ã  cette adresse : http://www.donnees.gouv.qc.ca
 
 
 
 ### Documentation
 
-Voir les readme qui accompagnent les jeux de données
+Voir les readme qui accompagnent les jeux de donnÃ©es
 
 
 # Licence
 
-La licence rattachée aux jeux de données originaux se trouve ici : http://www.donnees.gouv.qc.ca/?node=/licence
+La licence rattachÃ©e aux jeux de donnÃ©es originaux se trouve ici : http://www.donnees.gouv.qc.ca/?node=/licence
